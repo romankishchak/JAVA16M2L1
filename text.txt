@@ -13,3 +13,4 @@ git config --global user.email romanKishchak@gmail.com
 10. git pull origin master/main
 11. git checkout
 12. git merge branchName
+13. same code from branch 
