@@ -3,6 +3,9 @@ git config --global user.email romanKishchak@gmail.com
 
 1. git init --> ініцілізаціягіта
 2. git status --> поточний стан репо
-3. git add . --> додати вайл в стеж ареа
+3. git add . --> додати файл в стеж ареа
 4. git commit -m "name of the commit" --> коміт даних в репо
 5. git log --> перегляд комітів
+6. git remote add origin git@github.com:romankishchak/JavaTestRepoM1L2.git
+7. git remote -v
+git push origin master
