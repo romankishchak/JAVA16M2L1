@@ -14,3 +14,6 @@ git config --global user.email romanKishchak@gmail.com
 11. git checkout
 12. git merge branchName
 13. added code from master/main
+14. same code from branch change change after merge
+15. added change code during resolved conflict
+
