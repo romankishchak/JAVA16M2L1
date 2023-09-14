@@ -8,4 +8,6 @@ git config --global user.email romanKishchak@gmail.com
 5. git log --> перегляд комітів
 6. git remote add origin git@github.com:romankishchak/JavaTestRepoM1L2.git
 7. git remote -v
-git push origin master
+8. git push origin master/main
+9. git checkout <hesh> or master/main
+10. git pull origin master/main
